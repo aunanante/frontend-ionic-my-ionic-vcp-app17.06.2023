@@ -1,0 +1,7 @@
+{
+  "name": "my-ionic-vcp-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
